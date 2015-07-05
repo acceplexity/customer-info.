@@ -5,6 +5,10 @@
 //数値積分と数値微分
 //********************************
 
+
+//うっそぴょーーーん
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
