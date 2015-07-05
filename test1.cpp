@@ -50,3 +50,4 @@ double P(double x,double sigm2)
 {
 	return 1.0/(sqrt(2.0*PI*sigm2))*exp(-(x*x)/(2.0*sigm2));
 }
+//sss
